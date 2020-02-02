@@ -13,3 +13,5 @@ Do note, the sample image can be replaced with any other image for prediction. J
 # Libraries used 
 1. Keras
 2. matplotlib
+
+The dataset has been taken from [Kaggele's Cats vs Dogs](https://www.kaggle.com/c/dogs-vs-cats/data)
