@@ -14,4 +14,4 @@ Do note, the sample image can be replaced with any other image for prediction. J
 1. Keras
 2. matplotlib
 
-The dataset has been taken from [Kaggele's Cats vs Dogs](https://www.kaggle.com/c/dogs-vs-cats/data)
+The dataset has been taken from [Kaggle's Cats vs Dogs](https://www.kaggle.com/c/dogs-vs-cats/data)
